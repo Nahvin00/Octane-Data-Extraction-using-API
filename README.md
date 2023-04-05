@@ -18,6 +18,9 @@ Version 1 to 3 of the program functioned as a POC which authenticates the API co
 A senior system architect of Infineon Technologies gave some suggestions for significant improvements to the program. Along with V9, a separate program called ‘octane_database_encryption.py’ was created to encrypt and decrypt database connections.
 
 Stable versions of the program were released as V9, V10, and V11 with minor bug fixes.
+<p align="center" width="100%">
+    <img width="50%" src="https://user-images.githubusercontent.com/55419300/230038796-1569bcd2-3bf4-4aec-8a15-fe113b3a8209.png">
+</p>
 
 ## Results of Task/Project
 At the end of the project, V11 is the last version of the solution that accomplished the goal of the project. With the developed solution, it is now possible to extract Octane data using API. Moreover, the developed program can iterate and process multiple APIs at once with the click of a single button.
@@ -39,3 +42,17 @@ In terms of suggestions, the name and format of data contained in the field can 
 * Python 3.6 or higher
 * PyCharm IDE
 * Oracle database connection
+<p align="center" width="100%">
+    ERD of ‘AA_OCTANE_DB’ table
+</p>
+<p align="center" width="100%">
+    <img width="30%" src="https://user-images.githubusercontent.com/55419300/230044182-93f929fd-ed42-4074-ae39-025cd82b95c7.png">
+</p>
+<p align="center" width="100%">
+    ERD of ‘AA_OCTANE_HIST’ table
+</p>
+<p align="center" width="100%">
+    <img width="30%" src="https://user-images.githubusercontent.com/55419300/230044218-8fc5a2b6-ad65-479e-abe4-6f172bda9299.png">
+</p>
+
+
