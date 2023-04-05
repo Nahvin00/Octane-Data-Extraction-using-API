@@ -1,6 +1,6 @@
 # Octane Data Extraction using API
 
-ALM Octane is a web-based application lifecycle management platform that enables teams to collaborate easily, manage the product delivery pipeline, and visualize the impact of changes. This project aimed to develop a solution for Octane data extraction using API for a specific team that lacked technical skills required to develop a program that utilizes API to export and process data.
+This project was initiated by me during my internship at Infineon Technologies with aim to develop a solution for Octane data extraction using API for a specific team that lacked technical skills required to develop a program that utilizes API to export and process data.
 
 ## Task Specification
 The solution for Octane data extraction using API was assigned to develop that:
@@ -15,7 +15,7 @@ The solution was developed using the python programming language and PyCharm as 
 
 Version 1 to 3 of the program functioned as a POC which authenticates the API connection, retrieves and exports data to the oracle database. Version 4 of the program which included data processing was used to develop a template which was circulated to other colleagues to test out the program. The program was developed further until beta versions (V7 & V8).
 
-A senior system architect of Infineon Technologies, Mr. Wolf Burkhurd gave some suggestions for significant improvements to the program. Along with V9, a separate program called ‘octane_database_encryption.py’ was created to encrypt and decrypt database connections.
+A senior system architect of Infineon Technologies gave some suggestions for significant improvements to the program. Along with V9, a separate program called ‘octane_database_encryption.py’ was created to encrypt and decrypt database connections.
 
 Stable versions of the program were released as V9, V10, and V11 with minor bug fixes.
 
